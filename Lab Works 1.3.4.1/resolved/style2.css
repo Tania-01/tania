@@ -1,0 +1,21 @@
+header, footer {
+    background-color: aliceblue;
+    padding: 15px;
+}
+header {
+    text-align: right;
+}
+footer {
+    text-align: left;
+}
+header button, footer button {
+    color: white;
+    background-color: cornflowerblue;
+    padding: 15px;
+}
+
+.content button{
+    background-color: brown;
+    color: white;
+    padding: 5px;
+}
