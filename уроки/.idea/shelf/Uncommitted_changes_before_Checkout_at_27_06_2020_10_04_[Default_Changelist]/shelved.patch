@@ -1,0 +1,528 @@
+Index: ../.idea/misc.xml
+===================================================================
+--- ../.idea/misc.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../.idea/misc.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="JavaScriptSettings">
+-    <option name="languageLevel" value="ES6" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../.idea/workspace.xml
+===================================================================
+--- ../.idea/workspace.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../.idea/workspace.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,109 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ChangeListManager">
+-    <list default="true" id="0bb295b7-7af7-4bb5-83ea-4a2234701e7b" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/Lab Works 1.3.4.1/resolved/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lab Works 1.3.4.1/resolved/style.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lab Works 1.3.4.1/unresolved/design.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lab Works 1.3.4.1/unresolved/task.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/index3.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ravelAgency.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/style3.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.1html.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.1html.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index6.html" afterDir="false" />
+-    </list>
+-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FavoritesManager">
+-    <favorites_list name="практичні" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="HTML File" />
+-        <option value="CSS File" />
+-        <option value="package.json" />
+-        <option value="JavaScript File" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="ProjectId" id="1cXhB1wQQQp8u9UbqgWAjFpUOgs" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-    <ConfirmationsSetting value="2" id="Add" />
+-  </component>
+-  <component name="PropertiesComponent">
+-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+-    <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+-    <property name="list.type.of.created.stylesheet" value="CSS" />
+-    <property name="node.js.detected.package.eslint" value="true" />
+-    <property name="node.js.detected.package.tslint" value="true" />
+-    <property name="node.js.path.for.package.eslint" value="project" />
+-    <property name="node.js.path.for.package.tslint" value="project" />
+-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+-  </component>
+-  <component name="RunDashboard">
+-    <option name="ruleStates">
+-      <list>
+-        <RuleState>
+-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+-        </RuleState>
+-        <RuleState>
+-          <option name="name" value="StatusDashboardGroupingRule" />
+-        </RuleState>
+-      </list>
+-    </option>
+-  </component>
+-  <component name="RunManager">
+-    <configuration name="tutorial.js" type="NodeJSConfigurationType" path-to-node="$APPLICATION_CONFIG_DIR$/node/node-v10.16.0-win-x64/node" nameIsGenerated="true" path-to-js-file="tutorial.js" working-dir="$PROJECT_DIR$">
+-      <method v="2" />
+-    </configuration>
+-  </component>
+-  <component name="SvnConfiguration">
+-    <configuration />
+-  </component>
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="0bb295b7-7af7-4bb5-83ea-4a2234701e7b" name="Default Changelist" comment="" />
+-      <created>1590680707321</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1590680707321</updated>
+-      <workItem from="1590680714855" duration="5665000" />
+-      <workItem from="1590686777082" duration="10144000" />
+-      <workItem from="1591285518756" duration="6524000" />
+-    </task>
+-    <servers />
+-  </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="1" />
+-  </component>
+-  <component name="Vcs.Log.Tabs.Properties">
+-    <option name="TAB_STATES">
+-      <map>
+-        <entry key="MAIN">
+-          <value>
+-            <State>
+-              <option name="COLUMN_ORDER" />
+-            </State>
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../.idea/vcs.xml
+===================================================================
+--- ../.idea/vcs.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../.idea/vcs.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../index.1html.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../index.1html.html	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../index.1html.html	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,13 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Travel Agency</title>
+-    <link rel="stylesheet" href="style.css">
+-</head>
+-<ul>
+-    <li>
+-        <a href="ravelAgency.html">Chirska Tania</a>
+-    </li>
+-</ul>
+-</html>
+\ No newline at end of file
+Index: ../.idea/практичні.iml
+===================================================================
+--- ../.idea/практичні.iml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../.idea/практичні.iml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,12 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="WEB_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+-      <excludeFolder url="file://$MODULE_DIR$/temp" />
+-      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../.idea/modules.xml
+===================================================================
+--- ../.idea/modules.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../.idea/modules.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/практичні.iml" filepath="$PROJECT_DIR$/.idea/практичні.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../style.css	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../style.css	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,12 +0,0 @@
+-img{
+-    width: 300px;
+-    height: 200px;
+-}
+-table{
+-    width: 100%;
+-}
+-td,th{
+-
+-    border: 1px solid grey;
+-    border-collapse: collapse;
+-}
+Index: ../лаб1/flexbox.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../лаб1/flexbox.html	(date 1593096684225)
++++ ../лаб1/flexbox.html	(date 1593096684225)
+@@ -0,0 +1,43 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Title</title>
++    <link rel="stylesheet" href="style2.css"/>
++</head>
++<body>
++<header>
++        <div style="flex-grow: 1">1</div>
++        <div style="flex-grow: 2">2</div>
++        <div style="flex-grow: 5">3</div>
++</header>
++<div class="nav_bar">
++ <div class="d">
++     <div class="a">jfhsjdkfhsjkdfhsdkjfskjdfsdkjfgksdkfhgsf</div>
++     <div class="o">jghdfkjghdjkghjkghjkshgkjghskjghsjkgh</div>
++ </div>
++</div>
++<footer>
++    <div class="w">
++          <ul> ghd]sfs </ul>
++          <ul> ghd]sfs </ul>
++          <ul> ghd]sfs </ul>
++          <ul> ghd]sfs </ul>
++
++    </div>
++    <div class="w">
++
++            <ul>hughfdgh  </ul>
++            <ul>hughfdgh  </ul>
++            <ul>hughfdgh  </ul>
++            <ul>hughfdgh  </ul>
++
++    </div>
++        <div class="e">
++            <div class="q">12 </div>
++            <div class="p">13 </div>
++         </div>
++
++</footer>
++</body>
++</html>
+\ No newline at end of file
+Index: ../лаб1/style2.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../лаб1/style2.css	(date 1593102414830)
++++ ../лаб1/style2.css	(date 1593102414830)
+@@ -0,0 +1,81 @@
++header{
++    background-color: #c8d2d7;
++}
++header>div{
++    background-color: #e20d36;
++    color: white;
++    margin: 10px;
++    text-align: center;
++    line-height: 75px;
++    font-size: 30px;
++
++}
++header{
++    display: flex;
++    align-items: stretch;
++    background-color: #f1f1f1;
++}
++footer {
++    background-color: #e9eff1;
++    display: flex;
++    align-items: stretch;
++    bottom: 0;
++    margin-right: 10px;
++
++}
++.e{
++    margin:15px;
++}
++.w{
++    background-color: #e20d36;
++    margin: 10px;
++    width: 450px;
++    position: relative;
++
++}
++.q{
++
++    width: 550px;
++    margin-top: 10px;
++    background-color: #e20d36;
++     min-height: 60px;
++    position: relative;
++    }
++.p{
++    width: 550px;
++    background-color: #e20d36;
++    min-height: 60px;
++    position: relative;
++    bottom: 0;
++    margin-top: 10px;
++}
++.nav_bar{
++    background-color: #c8d2d7;
++    display: flex;
++}
++.d{
++    margin-top: 10px;
++    width: 200px;
++    padding: 10px 10px;
++    margin-left: 10px;
++    float: left;
++    height: 350px;
++    background-color: #cdb3bd;
++    position: relative;
++
++}
++.a{
++    background-color: #e20d36;
++    word-break: break-all;
++
++}
++.o{
++    background-color: #e20d36;
++    word-break: break-all;
++    position: absolute;
++    bottom: 0;
++    margin: 10px;
++    margin-left: 0;
++
++
++}
+Index: ../лаб1/лаб1.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../лаб1/лаб1.html	(date 1593089724663)
++++ ../лаб1/лаб1.html	(date 1593089724663)
+@@ -0,0 +1,58 @@
++<!DOCTYPE html>
++<html lang="eng">
++
++<head>
++    <title> source</title>
++    <link rel="stylesheet" href="style.css"/>
++    <meta charset="UTF-8">
++</head>
++<body>
++<div class="hedear" >
++    <div class="left_button">
++        <button>Service</button>
++        <button>Events</button>
++    </div>
++    <div class="right_button">
++        <button>Sign in</button>
++    </div>
++</div>
++<div >
++    <h2>"Events"</h2>
++</div>
++    <div class="cont">
++        <div style="flex-grow: 1" >Description</div>
++        <div class="d" >Date</div>
++        <div class="d" >Price</div>
++    </div>
++<div class="cont">
++    <div style="flex-grow: 1" >ааправопрлоапрліопріосрпвопілоплопліопрло</div>
++    <div class="d" >23.05.2020</div>
++    <div class="d" >720</div>
++</div>
++<div class="cont">
++    <div style="flex-grow: 1" >ааправопрлоапрліопріосрпвопілоплопліопрло</div>
++    <div class="d" >23.05.2020</div>
++    <div class="d" >720</div>
++</div>
++<div>
++    <h2>Jobs</h2>
++</div>
++<div class="a">
++    <div class="c"> Description </div>
++    <div class="x" style="flex-grow: 1"> ysuhfsfsjfshfghoflsjhufjshdfjkshfjsdhfjhdkjshkjsgkjsgksjgkjsfjsgsagbajkbjkbgvkjsbskjbvskjgbjkbgskfgygbkjghfhgkjdfjdfhjj
++        <button>kjhej</button>
++    </div>
++
++</div>
++<div class="a">
++    <div class="v"> Description </div>
++    <div class="n" style="flex-grow: 8"> ysuhfsfgjfkjgjkdfgkjdfbdbfbjdfbjdbkdbjkdbjkdnbdjkngjfdgjgjkdgjdhgjdkfhgjkhfgjkdfhgjkhfgjkdfhgjkdhfgjkdhfgjkhdkfjhgjdkfhgkjdfgsjfshfghoflsjhufjshdfjkshfjsdhf
++        jhdkjshkjsgkjsgksjgkjsfjsgsagbajkbjkbgvkjsbskjbvskjgbjkbgskfgygbkjghfhgkjdfjdfhjj
++        <button>kjhej</button>
++    </div>
++
++</div>
++
++</body>
++</html>
++
+Index: ../лаб1/style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../лаб1/style.css	(date 1593104265816)
++++ ../лаб1/style.css	(date 1593104265816)
+@@ -0,0 +1,98 @@
++.hedear{
++    background-color: #28c1ef;
++    display: flex;
++    flex-direction:row;
++    min-height: 40px;
++}
++.left_button {
++    display: flex;
++    align-items: center;
++}
++.left_button>button{
++background-color: red;
++align-items: center;
++}
++.right_button{
++   margin-left: auto;
++    display: flex;
++    align-items: center;
++}
++.right_button>button {
++    background-color: red;
++}
++.cont{
++    display: flex;
++    align-items: stretch;
++
++}
++.cont>div{
++    background-color: #c8d2d7;
++    color: white;
++    text-align: center;
++    line-height: 40px;
++    font-size: 30px;
++    border-style: groove;
++    margin-top: 8px;
++}
++.d{
++    width: 200px;
++    border-style: groove;
++    margin-top: 8px;
++    background-color: antiquewhite;
++}
++.a{
++    display: flex;
++    align-items: stretch;
++    height: 80px;
++}
++.c{
++    width: 200px;
++   background-color: red;
++    height: 80px;
++    margin-right: 15px;
++    display: flex;
++    flex: 0 0 200px;
++}
++.x{
++    background-color: coral;
++    height: 80px;
++    flex: 0 0 200px;
++    display: flex;
++
++}
++
++.x>button{
++
++    padding: 15px;
++    color: white;
++    background-color: brown;
++    align-self: flex-end;
++    border-radius: 5px;
++    border: solid 1px darkred;
++
++}
++.v{
++    display: flex;
++    margin-top: 15px;
++    width: 200px;
++    background-color: red;
++height: 80px;
++    margin-right: 15px;
++    flex: 0 0 200px;
++}
++.n{
++    margin-top: 15px;
++    background-color: coral;
++    height: 80px;
++    flex: 0 0 200px;
++}
++
++.n>button{
++
++    padding: 15px;
++    color: white;
++    background-color: brown;
++    align-self: flex-end;
++    border-radius: 5px;
++    border: solid 1px darkred;
++}
+diff --git ../лаб1/style.less ../лаб1/style.less
+new file mode 100644

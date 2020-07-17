@@ -1,0 +1,750 @@
+Index: ../.idea/misc.xml
+===================================================================
+--- ../.idea/misc.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../.idea/misc.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="JavaScriptSettings">
+-    <option name="languageLevel" value="ES6" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../index6.html
+===================================================================
+--- ../index6.html	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../index6.html	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,46 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Learn HTML</title>
+-    <link rel="stylesheet" href="style.css">
+-</head>
+-
+-    <h1>New York</h1>
+-<a href="https://en.wikipedia.org/wiki/New_York_City"target="_blank">New York</a>
+-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lower_Manhattan_skyline_-_June_2017.jpg/1920px-Lower_Manhattan_skyline_-_June_2017.jpg">
+-<p> <b>New York City (NYC)</b>, often called The City or simply New York (NY), is the most populous
+-    city in the United States. With an estimated 2019 population of 8,336,817 distributed over about 302.6
+-    square miles (784 km2), New York is also the most densely populated major city in the United States.[6]
+-    Located at the southern tip of the U.S. state of New York, the city is the center of the New York
+-    metropolitan area, the largest metropolitan area in the world by urban landmass.[10] With almost
+-    20 million people in its metropolitan statistical area and approximately 23 million in its combined
+-    statistical area, it is one of the world's most populous megacities. New York City has been described
+-    as the cultural, financial, and media capital of the world, significantly influencing commerce,[11] entertainment,
+-    research, technology, education, politics, tourism, art, fashion, and sports. Home to the headquarters of the
+-    United Nations,[12] New York is an important     center for international diplomacy.[13][14]</p>
+-<!--    <iframe src="https://en.wikipedia.org/wiki/New_York_City" height="200px"></iframe>-->
+-    <table>
+-        <tr>
+-            <th>username</th>
+-            <th>phone</th>
+-            <th>email</th>
+-        </tr>
+-        <tr>
+-            <td>Asfrg</td>
+-            <td>2345</td>
+-            <td>dfhhrj</td>
+-        </tr>
+-        <tr>
+-            <td>1</td>
+-            <td>2</td>
+-            <td>3</td>
+-        </tr>
+-    </table>
+-    <ul>
+-         <li>London</li>
+-        <li> Berlin</li>
+-        <li>Budapest</li>
+-    </ul>
+-</body>
+-</html>
+\ No newline at end of file
+Index: ../.idea/workspace.xml
+===================================================================
+--- ../.idea/workspace.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../.idea/workspace.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,109 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ChangeListManager">
+-    <list default="true" id="0bb295b7-7af7-4bb5-83ea-4a2234701e7b" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/Lab Works 1.3.4.1/resolved/index.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lab Works 1.3.4.1/resolved/style.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lab Works 1.3.4.1/unresolved/design.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Lab Works 1.3.4.1/unresolved/task.txt" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/index3.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ravelAgency.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/style3.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.1html.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.1html.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index6.html" afterDir="false" />
+-    </list>
+-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FavoritesManager">
+-    <favorites_list name="практичні" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="HTML File" />
+-        <option value="CSS File" />
+-        <option value="package.json" />
+-        <option value="JavaScript File" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="ProjectId" id="1cXhB1wQQQp8u9UbqgWAjFpUOgs" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-    <ConfirmationsSetting value="2" id="Add" />
+-  </component>
+-  <component name="PropertiesComponent">
+-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+-    <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+-    <property name="list.type.of.created.stylesheet" value="CSS" />
+-    <property name="node.js.detected.package.eslint" value="true" />
+-    <property name="node.js.detected.package.tslint" value="true" />
+-    <property name="node.js.path.for.package.eslint" value="project" />
+-    <property name="node.js.path.for.package.tslint" value="project" />
+-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+-  </component>
+-  <component name="RunDashboard">
+-    <option name="ruleStates">
+-      <list>
+-        <RuleState>
+-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+-        </RuleState>
+-        <RuleState>
+-          <option name="name" value="StatusDashboardGroupingRule" />
+-        </RuleState>
+-      </list>
+-    </option>
+-  </component>
+-  <component name="RunManager">
+-    <configuration name="tutorial.js" type="NodeJSConfigurationType" path-to-node="$APPLICATION_CONFIG_DIR$/node/node-v10.16.0-win-x64/node" nameIsGenerated="true" path-to-js-file="tutorial.js" working-dir="$PROJECT_DIR$">
+-      <method v="2" />
+-    </configuration>
+-  </component>
+-  <component name="SvnConfiguration">
+-    <configuration />
+-  </component>
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="0bb295b7-7af7-4bb5-83ea-4a2234701e7b" name="Default Changelist" comment="" />
+-      <created>1590680707321</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1590680707321</updated>
+-      <workItem from="1590680714855" duration="5665000" />
+-      <workItem from="1590686777082" duration="10144000" />
+-      <workItem from="1591285518756" duration="6524000" />
+-    </task>
+-    <servers />
+-  </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="1" />
+-  </component>
+-  <component name="Vcs.Log.Tabs.Properties">
+-    <option name="TAB_STATES">
+-      <map>
+-        <entry key="MAIN">
+-          <value>
+-            <State>
+-              <option name="COLUMN_ORDER" />
+-            </State>
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../ravelAgency.html
+===================================================================
+--- ../ravelAgency.html	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../ravelAgency.html	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,62 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Title</title>
+-    <link rel="stylesheet" href="style.css">
+-</head>
+-<body>
+-
+-<table>
+-    <thead>
+-
+-    <tr>
+-        <th> Name</th>
+-        <th>Counter </th>
+-        <th>Phone </th>
+-        <th>Phone </th>
+-        <th>Details</th>
+-
+-    </tr>
+-    </thead>
+-    <tbody>
+-    <tr>
+-        <td>London</td>
+-        <td>uk</td>
+-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lower_Manhattan_skyline_-_June_2017.jpg/1920px-Lower_Manhattan_skyline_-_June_2017.jpg" alt="Htllo"></td>
+-        <td>  London is the capital and largest city of England and the United Kingdom.[7][8] Standing on the River
+-            Thames in the south-east of England, at the head of its 50-mile (80 km) estuary leading to the North
+-            Sea, London has been a major settlement for two millennia
+-            . Londinium was founded by the Romans.[9] The City of London,
+-            London's ancient core − an area of just 1.12 square miles (2.9 km2) and
+-            colloquially known as the Square Mile −
+-            retains boundaries that closely follow its medieval
+-            limits.[10][11][12][13][14][note 1] The City of Westminster is also an Inner London borough holding city status. London is governed by the Mayor of London and the London Assembly</td>
+-    </tr>
+-    <tr>
+-        <td>Name</td>
+-        <td>Name</td>
+-        <td>Name</td>
+-        <td>Name</td>
+-        <td><iframe src="https://uk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD"></iframe></td>
+-
+-
+-    <tfoot>
+-    tr>
+-    <th> Name</th>
+-    <th>Surname </th>
+-    <th>Phone </th>
+-    <th>Surname </th>
+-    <th>Phone </th>
+-    </tr>
+-    tr>
+-    <th> Name</th>
+-    <th>Surname </th>
+-    <th>Phone </th>
+-    <th>Surname </th>
+-    <th>Phone </th>
+-    </tr>
+-    </tfoot>
+-</table>
+-</body>
+-</html>
+\ No newline at end of file
+Index: ../style3.css
+===================================================================
+--- ../style3.css	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../style3.css	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,3 +0,0 @@
+-form{
+-    display: inline-grid;
+-}
+\ No newline at end of file
+Index: ../.idea/vcs.xml
+===================================================================
+--- ../.idea/vcs.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../.idea/vcs.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../index.1html.html
+===================================================================
+--- ../index.1html.html	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../index.1html.html	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,13 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Travel Agency</title>
+-    <link rel="stylesheet" href="style.css">
+-</head>
+-<ul>
+-    <li>
+-        <a href="ravelAgency.html">Chirska Tania</a>
+-    </li>
+-</ul>
+-</html>
+\ No newline at end of file
+Index: ../.idea/практичні.iml
+===================================================================
+--- ../.idea/практичні.iml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../.idea/практичні.iml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,12 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="WEB_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+-      <excludeFolder url="file://$MODULE_DIR$/temp" />
+-      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: ../.idea/modules.xml
+===================================================================
+--- ../.idea/modules.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../.idea/modules.xml	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/практичні.iml" filepath="$PROJECT_DIR$/.idea/практичні.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: ../index3.html
+===================================================================
+--- ../index3.html	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../index3.html	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,16 +0,0 @@
+-<!DOCTYPE html>
+-<html lang="en">
+-<head>
+-    <meta charset="UTF-8">
+-    <title>Learn HTML</title>
+-    <link rel="stylesheet" href="style.css">
+-</head>
+-<body>
+-<form action="#">
+-<input type="text" placeholder="Username">
+-<input type="email" placeholder="email">
+-<input type="password" placeholder="password">
+-<input type="submit" >
+-</form>
+-</body>
+-</html>
+\ No newline at end of file
+Index: ../Lab Works 1.3.4.1/resolved/style.css
+===================================================================
+--- ../Lab Works 1.3.4.1/resolved/style.css	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../Lab Works 1.3.4.1/resolved/style.css	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,41 +0,0 @@
+-header, footer {
+-    background-color: aliceblue;
+-    padding: 15px;
+-}
+-header {
+-    text-align: right;
+-}
+-footer {
+-    text-align: left;
+-}
+-header button, footer button {
+-    color: white;
+-    background-color: cornflowerblue;
+-    padding: 15px;
+-}
+-
+-.content {
+-    border-width: 1px;
+-    border-style: solid;
+-    border-color: cornflowerblue;
+-    margin: 20px;
+-    padding: 15px;
+-}
+-.section {
+-    margin: 10px;
+-    background-color: beige;
+-}
+-.content button{
+-    background-color: brown;
+-    color: white;
+-    padding: 5px;
+-}
+-.content > button {
+-    background-color: white;
+-    color: blue;
+-}
+-
+-div>button{
+-    color: white;
+-    background-color: cornflowerblue;
+-}
+\ No newline at end of file
+Index: ../package.json
+===================================================================
+--- ../package.json	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../package.json	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,7 +0,0 @@
+-{
+-  "name": "практичні",
+-  "version": "1.0.0",
+-  "dependencies": {
+-    
+-  }
+-}
+Index: ../style.css
+===================================================================
+--- ../style.css	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../style.css	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
+@@ -1,12 +0,0 @@
+-img{
+-    width: 300px;
+-    height: 200px;
+-}
+-table{
+-    width: 100%;
+-}
+-td,th{
+-
+-    border: 1px solid grey;
+-    border-collapse: collapse;
+-}
+Index: ../лаб1/flexbox.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../лаб1/flexbox.html	(date 1593096684225)
++++ ../лаб1/flexbox.html	(date 1593096684225)
+@@ -0,0 +1,43 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <title>Title</title>
++    <link rel="stylesheet" href="style2.css"/>
++</head>
++<body>
++<header>
++        <div style="flex-grow: 1">1</div>
++        <div style="flex-grow: 2">2</div>
++        <div style="flex-grow: 5">3</div>
++</header>
++<div class="nav_bar">
++ <div class="d">
++     <div class="a">jfhsjdkfhsjkdfhsdkjfskjdfsdkjfgksdkfhgsf</div>
++     <div class="o">jghdfkjghdjkghjkghjkshgkjghskjghsjkgh</div>
++ </div>
++</div>
++<footer>
++    <div class="w">
++          <ul> ghd]sfs </ul>
++          <ul> ghd]sfs </ul>
++          <ul> ghd]sfs </ul>
++          <ul> ghd]sfs </ul>
++
++    </div>
++    <div class="w">
++
++            <ul>hughfdgh  </ul>
++            <ul>hughfdgh  </ul>
++            <ul>hughfdgh  </ul>
++            <ul>hughfdgh  </ul>
++
++    </div>
++        <div class="e">
++            <div class="q">12 </div>
++            <div class="p">13 </div>
++         </div>
++
++</footer>
++</body>
++</html>
+\ No newline at end of file
+Index: ../лаб1/style2.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../лаб1/style2.css	(date 1593102414830)
++++ ../лаб1/style2.css	(date 1593102414830)
+@@ -0,0 +1,81 @@
++header{
++    background-color: #c8d2d7;
++}
++header>div{
++    background-color: #e20d36;
++    color: white;
++    margin: 10px;
++    text-align: center;
++    line-height: 75px;
++    font-size: 30px;
++
++}
++header{
++    display: flex;
++    align-items: stretch;
++    background-color: #f1f1f1;
++}
++footer {
++    background-color: #e9eff1;
++    display: flex;
++    align-items: stretch;
++    bottom: 0;
++    margin-right: 10px;
++
++}
++.e{
++    margin:15px;
++}
++.w{
++    background-color: #e20d36;
++    margin: 10px;
++    width: 450px;
++    position: relative;
++
++}
++.q{
++
++    width: 550px;
++    margin-top: 10px;
++    background-color: #e20d36;
++     min-height: 60px;
++    position: relative;
++    }
++.p{
++    width: 550px;
++    background-color: #e20d36;
++    min-height: 60px;
++    position: relative;
++    bottom: 0;
++    margin-top: 10px;
++}
++.nav_bar{
++    background-color: #c8d2d7;
++    display: flex;
++}
++.d{
++    margin-top: 10px;
++    width: 200px;
++    padding: 10px 10px;
++    margin-left: 10px;
++    float: left;
++    height: 350px;
++    background-color: #cdb3bd;
++    position: relative;
++
++}
++.a{
++    background-color: #e20d36;
++    word-break: break-all;
++
++}
++.o{
++    background-color: #e20d36;
++    word-break: break-all;
++    position: absolute;
++    bottom: 0;
++    margin: 10px;
++    margin-left: 0;
++
++
++}
+Index: ../Lab Works 1.3.4.1/resolved/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/>\r\n</head>\r\n<body>\r\n    <header>\r\n        <button>Log in</button>\r\n        <button>Sign up</button>\r\n        <button>About us</button>\r\n    </header>\r\n    <div >\r\n        <p >\r\n            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n            <button >Read more...</button>\r\n        </p>\r\n        <p >\r\n            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\r\n            <button >Read more...</button>\r\n            <button>Subscribe for news</button>\r\n        </p>\r\n        <button>Subscribe for news</button>\r\n    </div>\r\n    \r\n    <footer>\r\n        <button>Privacy</button>\r\n        <button>Contacts</button>\r\n    </footer>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../Lab Works 1.3.4.1/resolved/index.html	(revision 0c620ba24aadaf5bd0b6166fc962f2f5d4396844)
++++ ../Lab Works 1.3.4.1/resolved/index.html	(date 1591819614490)
+@@ -1,7 +1,7 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+-    <link rel="stylesheet" type="text/css" href="style.css"/>
++    <link rel="stylesheet" href="style2.css"/>
+ </head>
+ <body>
+     <header>
+Index: ../лаб1/лаб1.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../лаб1/лаб1.html	(date 1593089724663)
++++ ../лаб1/лаб1.html	(date 1593089724663)
+@@ -0,0 +1,58 @@
++<!DOCTYPE html>
++<html lang="eng">
++
++<head>
++    <title> source</title>
++    <link rel="stylesheet" href="style.css"/>
++    <meta charset="UTF-8">
++</head>
++<body>
++<div class="hedear" >
++    <div class="left_button">
++        <button>Service</button>
++        <button>Events</button>
++    </div>
++    <div class="right_button">
++        <button>Sign in</button>
++    </div>
++</div>
++<div >
++    <h2>"Events"</h2>
++</div>
++    <div class="cont">
++        <div style="flex-grow: 1" >Description</div>
++        <div class="d" >Date</div>
++        <div class="d" >Price</div>
++    </div>
++<div class="cont">
++    <div style="flex-grow: 1" >ааправопрлоапрліопріосрпвопілоплопліопрло</div>
++    <div class="d" >23.05.2020</div>
++    <div class="d" >720</div>
++</div>
++<div class="cont">
++    <div style="flex-grow: 1" >ааправопрлоапрліопріосрпвопілоплопліопрло</div>
++    <div class="d" >23.05.2020</div>
++    <div class="d" >720</div>
++</div>
++<div>
++    <h2>Jobs</h2>
++</div>
++<div class="a">
++    <div class="c"> Description </div>
++    <div class="x" style="flex-grow: 1"> ysuhfsfsjfshfghoflsjhufjshdfjkshfjsdhfjhdkjshkjsgkjsgksjgkjsfjsgsagbajkbjkbgvkjsbskjbvskjgbjkbgskfgygbkjghfhgkjdfjdfhjj
++        <button>kjhej</button>
++    </div>
++
++</div>
++<div class="a">
++    <div class="v"> Description </div>
++    <div class="n" style="flex-grow: 8"> ysuhfsfgjfkjgjkdfgkjdfbdbfbjdfbjdbkdbjkdbjkdnbdjkngjfdgjgjkdgjdhgjdkfhgjkhfgjkdfhgjkhfgjkdfhgjkdhfgjkdhfgjkhdkfjhgjdkfhgkjdfgsjfshfghoflsjhufjshdfjkshfjsdhf
++        jhdkjshkjsgkjsgksjgkjsfjsgsagbajkbjkbgvkjsbskjbvskjgbjkbgskfgygbkjghfhgkjdfjdfhjj
++        <button>kjhej</button>
++    </div>
++
++</div>
++
++</body>
++</html>
++
+Index: ../лаб1/style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../лаб1/style.css	(date 1593104265816)
++++ ../лаб1/style.css	(date 1593104265816)
+@@ -0,0 +1,98 @@
++.hedear{
++    background-color: #28c1ef;
++    display: flex;
++    flex-direction:row;
++    min-height: 40px;
++}
++.left_button {
++    display: flex;
++    align-items: center;
++}
++.left_button>button{
++background-color: red;
++align-items: center;
++}
++.right_button{
++   margin-left: auto;
++    display: flex;
++    align-items: center;
++}
++.right_button>button {
++    background-color: red;
++}
++.cont{
++    display: flex;
++    align-items: stretch;
++
++}
++.cont>div{
++    background-color: #c8d2d7;
++    color: white;
++    text-align: center;
++    line-height: 40px;
++    font-size: 30px;
++    border-style: groove;
++    margin-top: 8px;
++}
++.d{
++    width: 200px;
++    border-style: groove;
++    margin-top: 8px;
++    background-color: antiquewhite;
++}
++.a{
++    display: flex;
++    align-items: stretch;
++    height: 80px;
++}
++.c{
++    width: 200px;
++   background-color: red;
++    height: 80px;
++    margin-right: 15px;
++    display: flex;
++    flex: 0 0 200px;
++}
++.x{
++    background-color: coral;
++    height: 80px;
++    flex: 0 0 200px;
++    display: flex;
++
++}
++
++.x>button{
++
++    padding: 15px;
++    color: white;
++    background-color: brown;
++    align-self: flex-end;
++    border-radius: 5px;
++    border: solid 1px darkred;
++
++}
++.v{
++    display: flex;
++    margin-top: 15px;
++    width: 200px;
++    background-color: red;
++height: 80px;
++    margin-right: 15px;
++    flex: 0 0 200px;
++}
++.n{
++    margin-top: 15px;
++    background-color: coral;
++    height: 80px;
++    flex: 0 0 200px;
++}
++
++.n>button{
++
++    padding: 15px;
++    color: white;
++    background-color: brown;
++    align-self: flex-end;
++    border-radius: 5px;
++    border: solid 1px darkred;
++}
+diff --git ../лаб1/style.less ../лаб1/style.less
+new file mode 100644
